@@ -1,0 +1,65 @@
+body{width:100%;}
+.tableheader {
+background-color: #95BEE6;
+color:white;
+font-weight:bold;
+}
+.tablerow {
+background-color: #A7D6F1;
+color:white;
+}
+.message {
+color: #333;
+border: #FF0000 1px solid;
+background: #FFE7E7;
+padding: 5px 20px;
+}
+
+.tblLogin{
+margin-top : 2px;
+}
+
+.inputform{
+	background-color: #A7D6F1;
+color:white;
+	
+	
+}
+
+.mainframe {
+	border:0 ;
+	cellpadding:10;
+	cellspacing:1;
+	width:100%;
+}
+
+
+
+.maintable.table, td, th {
+  border: 1px solid black;
+}
+
+.button_link {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.close {
+  cursor: pointer;
+  position: relative;
+  top: 50%;
+  right: 0%;
+  padding: 12px 16px;
+
+}
+.nav_back_arrow {
+  cursor: pointer;
+font-size:22px;
+
+}
